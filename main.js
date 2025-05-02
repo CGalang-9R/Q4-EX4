@@ -1,4 +1,4 @@
-function libsSection() {
+function libSection() {
 	var library_section = document.getElementById('enterSection').value;
 
 	switch(library_section) {
